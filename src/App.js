@@ -85,7 +85,7 @@ export default function NavTabs() {
         You are at About
       </TabPanel>
       <TabPanel value={value} index={2}>
-        You are at Contact
+        Write to us at freecodes.ninja@gmail.com
       </TabPanel>
     </div>
   );
