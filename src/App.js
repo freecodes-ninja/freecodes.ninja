@@ -79,7 +79,7 @@ export default function NavTabs() {
         </Tabs>
       </AppBar>
       <TabPanel value={value} index={0}>
-        You are at home
+        This is a opensource E-learning platform to help people learn programming
       </TabPanel>
       <TabPanel value={value} index={1}>
         You are at About
